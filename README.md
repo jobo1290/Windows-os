@@ -18,3 +18,12 @@ This folder is ready to publish as a static site with GitHub Pages.
 The final address will usually be:
 
 `https://<your-github-username>.github.io/<your-repository-name>/`
+## Star History
+
+<a href="https://www.star-history.com/?repos=jobo1290%2FWindows-os&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=jobo1290/Windows-os&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=jobo1290/Windows-os&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=jobo1290/Windows-os&type=date&legend=top-left" />
+ </picture>
+</a>
